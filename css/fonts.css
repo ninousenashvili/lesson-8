@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/');
+    src: url('../fonts/') format('embedded-opentype'),
+        url('../fonts/') format('woff2'),
+        url('../fonts/') format('woff'),
+        url('../fonts/') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/');
+    src: url('../fonts/') format('embedded-opentype'),
+        url('../fonts/') format('woff2'),
+        url('../fonts/') format('woff'),
+        url('../fonts/') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/');
+    src: url('../fonts/') format('embedded-opentype'),
+        url('../fonts/') format('woff2'),
+        url('../fonts/') format('woff'),
+        url('../fonts/') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
