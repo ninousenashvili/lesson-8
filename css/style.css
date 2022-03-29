@@ -1,10 +1,8 @@
 /*header styles*/
-header{
+.header-flex{
     display: flex;
     justify-content: space-between;
-}
-.heading{
-    display: flex;
+    
 }
 ul {
     display: flex;
@@ -27,6 +25,12 @@ h4 span{
 nav{
     margin: 87px 80px 267px 0px;
 }
+.burger-bar{
+    font-size: 25px;
+    color: grey;
+     margin-top: 70px;
+    display: none;
+}
 
 /* top-section styles*/
 
@@ -43,16 +47,18 @@ nav{
     margin-top: 42px;
     font-family: 'Roboto';
 }
-.left-block{
+/* .left-block{
     margin-left: 100px;
 
-}
-.right-block{
+} */
+/* .right-block{
 margin-right: 80px;
-}
+} */
 .top-section{
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
+    width: 1170px ;
 }
 
 .blue-icon{
