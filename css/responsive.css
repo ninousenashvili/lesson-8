@@ -1,5 +1,5 @@
 /*bottom-section responsive*/
-@media (max-width:1024px){
+@media (max-width:1170px){
     .bottom-section{
         width: 100%;
         width: 320px;
@@ -34,7 +34,7 @@
     }
 }
 /*top-section responsive*/
-@media (max-width:1024px) {
+@media (max-width:1170px) {
     .top-section{
         width: 100%;
         width: 300px;
@@ -56,7 +56,7 @@
 }
 
 /*header responsive styles */
-@media (max-width:1024px){
+@media (max-width:1170px){
     .navigation{
         display: none;
     }
