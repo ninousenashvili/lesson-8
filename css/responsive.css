@@ -64,6 +64,10 @@
     .title{
         width: 300px;
     }
+    .programing{
+        width: 300px;
+        height: 200px;
+    }
 }
 
 /*header responsive styles */
